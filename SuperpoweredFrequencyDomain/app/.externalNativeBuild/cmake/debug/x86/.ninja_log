@@ -1,0 +1,4 @@
+# ninja log v5
+2	117	0	CMakeFiles/FrequencyDomainExample.dir/src/main/cpp/FrequencyDomain.cpp.o	8ca35c7a3774c4f8
+1	132	0	CMakeFiles/FrequencyDomainExample.dir/C_/Repos/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp.o	da3adf7ab6919667
+132	213	0	../../../../build/intermediates/cmake/debug/obj/x86/libFrequencyDomainExample.so	b7501bbd7dc2ad55

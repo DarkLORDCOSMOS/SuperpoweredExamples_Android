@@ -1,0 +1,21 @@
+Executable : C:\Users\multi\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HC:\Repos\SuperpoweredExamples_Android\SuperpoweredUSBExample\simpleusb\src\main\jni
+-BC:\Repos\SuperpoweredExamples_Android\SuperpoweredUSBExample\simpleusb\.externalNativeBuild\cmake\release\arm64-v8a
+-DANDROID_ABI=arm64-v8a
+-DANDROID_PLATFORM=android-16
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Repos\SuperpoweredExamples_Android\SuperpoweredUSBExample\simpleusb\build\intermediates\cmake\release\obj\arm64-v8a
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=C:\Users\multi\AppData\Local\Android\Sdk\ndk-bundle
+-DCMAKE_C_FLAGS=-O3 -fsigned-char
+-DCMAKE_CXX_FLAGS=-fsigned-char -IC:\Repos\SuperpoweredExamples_Android\SuperpoweredUSBExample\simpleusb\..\..\..\Superpowered
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\multi\AppData\Local\Android\Sdk\ndk-bundle\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\multi\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+-DANDROID_PLATFORM=android-16
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_ARM_NEON=TRUE
+-DANDROID_STL=c++_static
+-DPATH_TO_SUPERPOWERED:STRING=C:\Repos\SuperpoweredExamples_Android\SuperpoweredUSBExample\simpleusb\..\..\..\Superpowered
+jvmArgs : 
+

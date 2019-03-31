@@ -1,0 +1,5 @@
+# ninja log v5
+0	131	0	CMakeFiles/SuperpoweredExample.dir/latencyMeasurer.cpp.o	66619c2a083b272f
+3	132	0	CMakeFiles/SuperpoweredExample.dir/C_/Repos/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp.o	6abf378537eb6c0e
+2	146	0	CMakeFiles/SuperpoweredExample.dir/complexusb.cpp.o	ab23de095fe71acb
+146	225	0	C:/Repos/SuperpoweredExamples_Android/SuperpoweredUSBExample/complexusb/build/intermediates/cmake/debug/obj/x86/libSuperpoweredExample.so	823732e68e220e0

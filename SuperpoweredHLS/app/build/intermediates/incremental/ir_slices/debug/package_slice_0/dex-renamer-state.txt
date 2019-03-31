@@ -1,0 +1,4 @@
+#Sun Mar 31 16:14:34 MDT 2019
+base.0=C\:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredHLS\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

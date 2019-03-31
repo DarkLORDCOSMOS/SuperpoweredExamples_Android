@@ -1,0 +1,4 @@
+# ninja log v5
+2	142	0	CMakeFiles/HLSPlayer.dir/C_/Repos/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp.o	aa0bd8347c07c031
+0	324	0	CMakeFiles/HLSPlayer.dir/src/main/cpp/HLSPlayer.cpp.o	a3af25bc60ee289e
+324	419	0	../../../../build/intermediates/cmake/debug/obj/x86/libHLSPlayer.so	4ff8a87005a6558e

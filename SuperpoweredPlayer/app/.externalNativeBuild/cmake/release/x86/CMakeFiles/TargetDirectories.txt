@@ -1,0 +1,3 @@
+C:/Repos/SuperpoweredExamples_Android/SuperpoweredPlayer/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/PlayerExample.dir
+C:/Repos/SuperpoweredExamples_Android/SuperpoweredPlayer/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/edit_cache.dir
+C:/Repos/SuperpoweredExamples_Android/SuperpoweredPlayer/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/rebuild_cache.dir

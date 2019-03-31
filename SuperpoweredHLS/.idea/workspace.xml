@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ca14d76-7d47-4b02-87b8-4c9fe17c7e82" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredEffect/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/SuperpoweredCrossExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/SuperpoweredCrossExample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/build/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/src/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/src/main/cpp/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/src/main/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/src/main/java/com/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/src/main/java/com/superpowered/crossexample/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/src/main/java/com/superpowered/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/src/main/java/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/src/main/res/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/src/main/res/drawable-hdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/src/main/res/drawable-mdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/src/main/res/drawable-xhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/src/main/res/drawable-xxhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/src/main/res/layout/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/src/main/res/menu/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/src/main/res/raw/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/src/main/res/values-w820dp/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/app/src/main/res/values/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/build/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/gradle/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/gradle/wrapper/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredCrossExample/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperpoweredCrossExample/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/SuperpoweredEffect.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperpoweredEffect/SuperpoweredEffect.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperpoweredEffect/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/build/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/libs/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/src/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/src/main/cpp/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/src/main/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/src/main/java/com/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/src/main/java/com/superpowered/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/src/main/java/com/superpowered/effect/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/src/main/java/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/src/main/res/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/src/main/res/drawable-v24/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/src/main/res/drawable/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/src/main/res/layout/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/src/main/res/mipmap-anydpi-v26/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/src/main/res/mipmap-hdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/src/main/res/mipmap-mdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/src/main/res/mipmap-xhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/src/main/res/mipmap-xxhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/src/main/res/mipmap-xxxhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/app/src/main/res/values/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/gradle/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/gradle/wrapper/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredEffect/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperpoweredEffect/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/SuperpoweredFrequencyDomain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/SuperpoweredFrequencyDomain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/build/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/src/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/src/main/cpp/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/src/main/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/src/main/java/com/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/src/main/java/com/superpowered/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/src/main/java/com/superpowered/frequencydomain/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/src/main/java/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/src/main/res/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/src/main/res/layout/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/src/main/res/menu/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/src/main/res/mipmap-hdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/src/main/res/mipmap-mdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/src/main/res/mipmap-xhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/src/main/res/mipmap-xxhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/src/main/res/values-w820dp/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/app/src/main/res/values/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/build/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/gradle/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/gradle/wrapper/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperpoweredFrequencyDomain/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperpoweredHLS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SuperpoweredHLS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/cpp/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/superpowered/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/superpowered/hls/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/build/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/libs/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/src/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/src/main/cpp/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/src/main/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/src/main/java/com/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/src/main/java/com/superpowered/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/src/main/java/com/superpowered/playerexample/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/src/main/java/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/src/main/res/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/src/main/res/drawable-v24/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/src/main/res/drawable/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/src/main/res/layout/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/src/main/res/mipmap-anydpi-v26/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/src/main/res/mipmap-hdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/src/main/res/mipmap-mdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/src/main/res/mipmap-xhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/src/main/res/mipmap-xxhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/src/main/res/mipmap-xxxhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/src/main/res/raw/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/app/src/main/res/values/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/gradle/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredPlayer/gradle/wrapper/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/build/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/libs/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/src/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/src/main/cpp/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/src/main/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/src/main/java/com/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/src/main/java/com/superpowered/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/src/main/java/com/superpowered/recorder/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/src/main/java/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/src/main/res/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/src/main/res/drawable-v24/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/src/main/res/drawable/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/src/main/res/layout/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/src/main/res/mipmap-anydpi-v26/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/src/main/res/mipmap-hdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/src/main/res/mipmap-mdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/src/main/res/mipmap-xhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/src/main/res/mipmap-xxhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/src/main/res/mipmap-xxxhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/app/src/main/res/values/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/gradle/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredRecorder/gradle/wrapper/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/build/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/complexusb/build/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/complexusb/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/complexusb/src/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/complexusb/src/main/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/complexusb/src/main/java/com/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/complexusb/src/main/java/com/superpowered/complexusb/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/complexusb/src/main/java/com/superpowered/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/complexusb/src/main/java/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/complexusb/src/main/jni/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/complexusb/src/main/res/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/complexusb/src/main/res/layout/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/complexusb/src/main/res/mipmap-hdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/complexusb/src/main/res/mipmap-mdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/complexusb/src/main/res/mipmap-xhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/complexusb/src/main/res/mipmap-xxhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/complexusb/src/main/res/mipmap-xxxhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/complexusb/src/main/res/values-w820dp/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/complexusb/src/main/res/values/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/complexusb/src/main/res/xml/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/gradle/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/gradle/wrapper/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/simpleusb/build/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/simpleusb/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/simpleusb/src/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/simpleusb/src/main/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/simpleusb/src/main/java/com/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/simpleusb/src/main/java/com/superpowered/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/simpleusb/src/main/java/com/superpowered/simpleusb/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/simpleusb/src/main/java/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/simpleusb/src/main/jni/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/simpleusb/src/main/res/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/simpleusb/src/main/res/layout/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/simpleusb/src/main/res/mipmap-hdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/simpleusb/src/main/res/mipmap-mdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/simpleusb/src/main/res/mipmap-xhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/simpleusb/src/main/res/mipmap-xxhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/simpleusb/src/main/res/mipmap-xxxhdpi/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/simpleusb/src/main/res/values-w820dp/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/simpleusb/src/main/res/values/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperpoweredUSBExample/simpleusb/src/main/res/xml/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desktop.ini" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1594502135">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="C:/SuperpoweredFrequencyDomain" value="PREVIEW" />
+        <entry key="$USER_HOME$/Google Drive/Hush/Software/Deckard/deckard-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Google Drive/Hush/Software/Superpowered/SuperpoweredSDK/Examples_Android/SuperpoweredFrequencyDomain" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="device.picker.selection" value="Pixel_2_API_28" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SuperpoweredCrossExample" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ca14d76-7d47-4b02-87b8-4c9fe17c7e82" name="Default Changelist" comment="" />
+      <created>1554070445095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554070445095</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32995737" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Android Profiler" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.32939914" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>

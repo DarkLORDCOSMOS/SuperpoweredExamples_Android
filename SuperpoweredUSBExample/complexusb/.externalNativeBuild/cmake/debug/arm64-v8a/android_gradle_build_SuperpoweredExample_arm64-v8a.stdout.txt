@@ -1,0 +1,4 @@
+[1/4] Building CXX object CMakeFiles/SuperpoweredExample.dir/complexusb.cpp.o
+[2/4] Building CXX object CMakeFiles/SuperpoweredExample.dir/latencyMeasurer.cpp.o
+[3/4] Building CXX object CMakeFiles/SuperpoweredExample.dir/C_/Repos/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp.o
+[4/4] Linking CXX shared library C:\Repos\SuperpoweredExamples_Android\SuperpoweredUSBExample\complexusb\build\intermediates\cmake\debug\obj\arm64-v8a\libSuperpoweredExample.so

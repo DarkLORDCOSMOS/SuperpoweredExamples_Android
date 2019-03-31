@@ -1,0 +1,4 @@
+# ninja log v5
+2	137	0	CMakeFiles/EffectExample.dir/C_/Repos/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp.o	4e61f4d71df5d3cd
+0	300	0	CMakeFiles/EffectExample.dir/src/main/cpp/EffectExample.cpp.o	d3cc2b0046451a89
+301	388	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libEffectExample.so	ba4d32c9212518a6

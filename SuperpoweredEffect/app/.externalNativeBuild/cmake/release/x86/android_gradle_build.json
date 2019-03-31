@@ -1,0 +1,47 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/Repos/SuperpoweredExamples_Android/SuperpoweredEffect/app/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\multi\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredEffect\\app\\.externalNativeBuild\\cmake\\release\\x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"EffectExample-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "EffectExample",
+			"buildCommand" : "C:\\Users\\multi\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredEffect\\app\\.externalNativeBuild\\cmake\\release\\x86 --target EffectExample",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android16 --gcc-toolchain=C:/Users/multi/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/multi/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DEffectExample_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -I..\\..\\..\\..\\..\\..\\..\\Superpowered  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -fsigned-char -IC:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredEffect\\app\\..\\..\\..\\Superpowered -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Repos/SuperpoweredExamples_Android/SuperpoweredEffect/app/src/main/cpp/EffectExample.cpp",
+					"workingDirectory" : "C:/Repos/SuperpoweredExamples_Android/SuperpoweredEffect/app/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android16 --gcc-toolchain=C:/Users/multi/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/multi/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DEffectExample_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp -I..\\..\\..\\..\\..\\..\\..\\Superpowered  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -fsigned-char -IC:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredEffect\\app\\..\\..\\..\\Superpowered -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Repos/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp",
+					"workingDirectory" : "C:/Repos/SuperpoweredExamples_Android/SuperpoweredEffect/app/.externalNativeBuild/cmake/release/x86"
+				}
+			],
+			"output" : "C:/Repos/SuperpoweredExamples_Android/SuperpoweredEffect/app/build/intermediates/cmake/release/obj/x86/libEffectExample.so",
+			"toolchain" : "3366364405"
+		}
+	},
+	"toolchains" : 
+	{
+		"3366364405" : 
+		{
+			"cCompilerExecutable" : "C:/Users/multi/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/multi/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

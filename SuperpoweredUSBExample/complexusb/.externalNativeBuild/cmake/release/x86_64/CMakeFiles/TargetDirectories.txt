@@ -1,0 +1,3 @@
+C:/Repos/SuperpoweredExamples_Android/SuperpoweredUSBExample/complexusb/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/SuperpoweredExample.dir
+C:/Repos/SuperpoweredExamples_Android/SuperpoweredUSBExample/complexusb/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+C:/Repos/SuperpoweredExamples_Android/SuperpoweredUSBExample/complexusb/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredPlayer\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\multi\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredPlayer\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "PlayerExample-Debug-armeabi-v7a": {
+      "artifactName": "PlayerExample",
+      "buildCommand": "C:\\Users\\multi\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredPlayer\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target PlayerExample",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredPlayer\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libPlayerExample.so"
+    }
+  }
+}

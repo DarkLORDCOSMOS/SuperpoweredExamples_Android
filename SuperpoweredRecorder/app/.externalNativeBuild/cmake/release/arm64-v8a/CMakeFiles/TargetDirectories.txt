@@ -1,0 +1,3 @@
+C:/Repos/SuperpoweredExamples_Android/SuperpoweredRecorder/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/RecorderExample.dir
+C:/Repos/SuperpoweredExamples_Android/SuperpoweredRecorder/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Repos/SuperpoweredExamples_Android/SuperpoweredRecorder/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir

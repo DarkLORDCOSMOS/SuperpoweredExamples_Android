@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredHLS\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\multi\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredHLS\\app\\.externalNativeBuild\\cmake\\debug\\x86_64 --target clean"
+  ],
+  "libraries": {
+    "HLSPlayer-Debug-x86_64": {
+      "artifactName": "HLSPlayer",
+      "buildCommand": "C:\\Users\\multi\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredHLS\\app\\.externalNativeBuild\\cmake\\debug\\x86_64 --target HLSPlayer",
+      "abi": "x86_64",
+      "output": "C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredHLS\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libHLSPlayer.so"
+    }
+  }
+}

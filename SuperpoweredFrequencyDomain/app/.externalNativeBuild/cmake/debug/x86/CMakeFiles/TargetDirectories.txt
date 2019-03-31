@@ -1,0 +1,3 @@
+C:/Repos/SuperpoweredExamples_Android/SuperpoweredFrequencyDomain/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/FrequencyDomainExample.dir
+C:/Repos/SuperpoweredExamples_Android/SuperpoweredFrequencyDomain/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/edit_cache.dir
+C:/Repos/SuperpoweredExamples_Android/SuperpoweredFrequencyDomain/app/.externalNativeBuild/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

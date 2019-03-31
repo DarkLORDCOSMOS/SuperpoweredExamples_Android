@@ -1,0 +1,4 @@
+# ninja log v5
+2	134	0	CMakeFiles/SuperpoweredExample.dir/C_/Repos/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp.o	673d3e71e934ea09
+1	147	0	CMakeFiles/SuperpoweredExample.dir/simpleusb.cpp.o	ad5d5256e6e46a65
+147	235	0	C:/Repos/SuperpoweredExamples_Android/SuperpoweredUSBExample/simpleusb/build/intermediates/cmake/debug/obj/x86_64/libSuperpoweredExample.so	ebd5a119b2533054

@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredHLS\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\multi\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredHLS\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "HLSPlayer-Release-armeabi-v7a": {
+      "artifactName": "HLSPlayer",
+      "buildCommand": "C:\\Users\\multi\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredHLS\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target HLSPlayer",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredHLS\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libHLSPlayer.so"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+Executable : C:\Users\multi\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+C:\Repos\SuperpoweredExamples_Android\SuperpoweredUSBExample\simpleusb\.externalNativeBuild\cmake\debug\x86_64
+--target
+SuperpoweredExample
+jvmArgs : 
+

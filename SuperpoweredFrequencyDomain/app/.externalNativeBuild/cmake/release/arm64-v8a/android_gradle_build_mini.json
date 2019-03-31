@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredFrequencyDomain\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\multi\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredFrequencyDomain\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "FrequencyDomainExample-Release-arm64-v8a": {
+      "artifactName": "FrequencyDomainExample",
+      "buildCommand": "C:\\Users\\multi\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredFrequencyDomain\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target FrequencyDomainExample",
+      "abi": "arm64-v8a",
+      "output": "C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredFrequencyDomain\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libFrequencyDomainExample.so"
+    }
+  }
+}

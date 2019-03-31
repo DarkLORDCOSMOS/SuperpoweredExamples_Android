@@ -1,0 +1,47 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/Repos/SuperpoweredExamples_Android/SuperpoweredUSBExample/simpleusb/src/main/jni/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\multi\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredUSBExample\\simpleusb\\.externalNativeBuild\\cmake\\debug\\x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"SuperpoweredExample-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "SuperpoweredExample",
+			"buildCommand" : "C:\\Users\\multi\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredUSBExample\\simpleusb\\.externalNativeBuild\\cmake\\debug\\x86 --target SuperpoweredExample",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android16 --gcc-toolchain=C:/Users/multi/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/multi/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DSuperpoweredExample_EXPORTS -IC:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredUSBExample\\simpleusb\\src\\main\\jni\\src\\main\\jni -IC:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredUSBExample\\simpleusb\\..\\..\\..\\Superpowered  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -fsigned-char -IC:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredUSBExample\\simpleusb\\..\\..\\..\\Superpowered -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Repos/SuperpoweredExamples_Android/SuperpoweredUSBExample/simpleusb/src/main/jni/simpleusb.cpp",
+					"workingDirectory" : "C:/Repos/SuperpoweredExamples_Android/SuperpoweredUSBExample/simpleusb/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android16 --gcc-toolchain=C:/Users/multi/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/multi/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DSuperpoweredExample_EXPORTS -IC:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredUSBExample\\simpleusb\\src\\main\\jni\\src\\main\\jni -IC:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredUSBExample\\simpleusb\\..\\..\\..\\Superpowered  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -fsigned-char -IC:\\Repos\\SuperpoweredExamples_Android\\SuperpoweredUSBExample\\simpleusb\\..\\..\\..\\Superpowered -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Repos/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp",
+					"workingDirectory" : "C:/Repos/SuperpoweredExamples_Android/SuperpoweredUSBExample/simpleusb/.externalNativeBuild/cmake/debug/x86"
+				}
+			],
+			"output" : "C:/Repos/SuperpoweredExamples_Android/SuperpoweredUSBExample/simpleusb/build/intermediates/cmake/debug/obj/x86/libSuperpoweredExample.so",
+			"toolchain" : "3366364405"
+		}
+	},
+	"toolchains" : 
+	{
+		"3366364405" : 
+		{
+			"cCompilerExecutable" : "C:/Users/multi/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/multi/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

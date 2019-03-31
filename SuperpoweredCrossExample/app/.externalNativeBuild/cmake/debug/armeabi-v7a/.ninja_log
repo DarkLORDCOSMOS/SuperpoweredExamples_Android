@@ -1,0 +1,4 @@
+# ninja log v5
+1	137	0	CMakeFiles/CrossExample.dir/C_/Repos/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp.o	e7c28a2753c7de34
+2	173	0	CMakeFiles/CrossExample.dir/src/main/cpp/CrossExample.cpp.o	fd8eb2d4c8f924d5
+173	273	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libCrossExample.so	a94bc9e187e84ff6
