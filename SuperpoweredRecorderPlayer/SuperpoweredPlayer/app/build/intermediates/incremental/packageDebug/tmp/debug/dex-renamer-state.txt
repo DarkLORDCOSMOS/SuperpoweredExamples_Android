@@ -1,0 +1,4 @@
+#Fri Apr 05 12:57:26 MDT 2019
+base.0=/Users/nickbarnes/Downloads/SuperpoweredSDK8/Examples_Android/SuperpoweredPlayer/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

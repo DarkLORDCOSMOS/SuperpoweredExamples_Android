@@ -1,0 +1,47 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/nickbarnes/Downloads/SuperpoweredSDK8/Examples_Android/SuperpoweredPlayer/app/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/nickbarnes/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/nickbarnes/Downloads/SuperpoweredSDK8/Examples_Android/SuperpoweredPlayer/app/.externalNativeBuild/cmake/release/x86_64 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"PlayerExample-Release-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "PlayerExample",
+			"buildCommand" : "/Users/nickbarnes/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/nickbarnes/Downloads/SuperpoweredSDK8/Examples_Android/SuperpoweredPlayer/app/.externalNativeBuild/cmake/release/x86_64 --target PlayerExample",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/nickbarnes/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/nickbarnes/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DPlayerExample_EXPORTS -I../../../../src/main/cpp -I../../../../libs/Superpowered  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -fsigned-char -I/Users/nickbarnes/Downloads/SuperpoweredSDK8/Examples_Android/SuperpoweredPlayer/app/libs/Superpowered -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/nickbarnes/Downloads/SuperpoweredSDK8/Examples_Android/SuperpoweredPlayer/app/src/main/cpp/PlayerExample.cpp",
+					"workingDirectory" : "/Users/nickbarnes/Downloads/SuperpoweredSDK8/Examples_Android/SuperpoweredPlayer/app/.externalNativeBuild/cmake/release/x86_64"
+				},
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/nickbarnes/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/nickbarnes/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DPlayerExample_EXPORTS -I../../../../src/main/cpp -I../../../../libs/Superpowered  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -fsigned-char -I/Users/nickbarnes/Downloads/SuperpoweredSDK8/Examples_Android/SuperpoweredPlayer/app/libs/Superpowered -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/nickbarnes/Downloads/SuperpoweredSDK8/Examples_Android/SuperpoweredPlayer/app/libs/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp",
+					"workingDirectory" : "/Users/nickbarnes/Downloads/SuperpoweredSDK8/Examples_Android/SuperpoweredPlayer/app/.externalNativeBuild/cmake/release/x86_64"
+				}
+			],
+			"output" : "/Users/nickbarnes/Downloads/SuperpoweredSDK8/Examples_Android/SuperpoweredPlayer/app/build/intermediates/cmake/release/obj/x86_64/libPlayerExample.so",
+			"toolchain" : "8542133664593169229"
+		}
+	},
+	"toolchains" : 
+	{
+		"8542133664593169229" : 
+		{
+			"cCompilerExecutable" : "/Users/nickbarnes/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/nickbarnes/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

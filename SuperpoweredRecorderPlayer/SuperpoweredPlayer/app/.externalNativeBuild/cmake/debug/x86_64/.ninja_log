@@ -1,0 +1,7 @@
+# ninja log v5
+0	190	0	CMakeFiles/PlayerExample.dir/libs/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp.o	51466ac69a92e10f
+0	505	0	CMakeFiles/PlayerExample.dir/src/main/cpp/PlayerExample.cpp.o	264fe8187861cbd7
+506	636	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libPlayerExample.so	8a14c02fe7a2541f
+2	143	0	CMakeFiles/PlayerExample.dir/libs/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp.o	51466ac69a92e10f
+2	418	0	CMakeFiles/PlayerExample.dir/src/main/cpp/PlayerExample.cpp.o	264fe8187861cbd7
+418	573	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libPlayerExample.so	8a14c02fe7a2541f

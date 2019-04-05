@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/nickbarnes/Downloads/SuperpoweredSDK8/Examples_Android/SuperpoweredPlayer/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/nickbarnes/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/nickbarnes/Downloads/SuperpoweredSDK8/Examples_Android/SuperpoweredPlayer/app/.externalNativeBuild/cmake/debug/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "PlayerExample-Debug-arm64-v8a": {
+      "artifactName": "PlayerExample",
+      "buildCommand": "/Users/nickbarnes/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/nickbarnes/Downloads/SuperpoweredSDK8/Examples_Android/SuperpoweredPlayer/app/.externalNativeBuild/cmake/debug/arm64-v8a --target PlayerExample",
+      "abi": "arm64-v8a",
+      "output": "/Users/nickbarnes/Downloads/SuperpoweredSDK8/Examples_Android/SuperpoweredPlayer/app/build/intermediates/cmake/debug/obj/arm64-v8a/libPlayerExample.so"
+    }
+  }
+}

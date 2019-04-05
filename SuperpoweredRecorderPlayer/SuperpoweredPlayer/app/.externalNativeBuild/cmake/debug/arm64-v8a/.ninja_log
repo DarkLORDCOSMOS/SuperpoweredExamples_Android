@@ -1,0 +1,21 @@
+# ninja log v5
+1	126	0	CMakeFiles/PlayerExample.dir/libs/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp.o	331c063717831164
+0	387	0	CMakeFiles/PlayerExample.dir/src/main/cpp/PlayerExample.cpp.o	830af972cb3c2372
+387	594	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libPlayerExample.so	820c192a60834828
+1	129	0	CMakeFiles/PlayerExample.dir/libs/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp.o	331c063717831164
+1	394	0	CMakeFiles/PlayerExample.dir/src/main/cpp/PlayerExample.cpp.o	830af972cb3c2372
+394	666	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libPlayerExample.so	820c192a60834828
+7	446	0	CMakeFiles/PlayerExample.dir/libs/Superpowered/AndroidIO/SuperpoweredAndroidAudioIO.cpp.o	331c063717831164
+5	1419	0	CMakeFiles/PlayerExample.dir/src/main/cpp/PlayerExample.cpp.o	830af972cb3c2372
+1419	2076	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libPlayerExample.so	820c192a60834828
+1	113	0	build.ninja	67cecd88cbc1e0bb
+3	1078	0	CMakeFiles/PlayerExample.dir/src/main/cpp/PlayerExample.cpp.o	830af972cb3c2372
+1078	1370	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libPlayerExample.so	820c192a60834828
+1	590	0	CMakeFiles/PlayerExample.dir/src/main/cpp/PlayerExample.cpp.o	830af972cb3c2372
+590	848	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libPlayerExample.so	820c192a60834828
+2	509	0	CMakeFiles/PlayerExample.dir/src/main/cpp/PlayerExample.cpp.o	830af972cb3c2372
+509	712	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libPlayerExample.so	820c192a60834828
+1	547	0	CMakeFiles/PlayerExample.dir/src/main/cpp/PlayerExample.cpp.o	830af972cb3c2372
+548	800	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libPlayerExample.so	820c192a60834828
+2	734	0	CMakeFiles/PlayerExample.dir/src/main/cpp/PlayerExample.cpp.o	830af972cb3c2372
+734	1075	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libPlayerExample.so	820c192a60834828

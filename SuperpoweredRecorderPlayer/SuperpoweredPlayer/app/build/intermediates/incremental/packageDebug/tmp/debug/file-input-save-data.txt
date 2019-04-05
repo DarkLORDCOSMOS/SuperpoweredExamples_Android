@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri Apr 05 12:57:26 MDT 2019
+1.base=/Users/nickbarnes/Downloads/SuperpoweredSDK8/Examples_Android/SuperpoweredPlayer/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=lib/arm64-v8a/libPlayerExample.so
+0.set=NATIVE_RESOURCE
+0.base=/Users/nickbarnes/Downloads/SuperpoweredSDK8/Examples_Android/SuperpoweredPlayer/app/build/intermediates/transforms/stripDebugSymbol/debug/0
+1.path=classes.dex
